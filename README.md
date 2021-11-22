@@ -14,7 +14,7 @@ _Things that you need to run the program_
 - Google Chrome
 - Visual Studio Code
 - Node.js
-- Docker
+
 ```
 
 ### Installation 🔧
